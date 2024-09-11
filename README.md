@@ -1,4 +1,4 @@
-# food-ecommerce.
+# Make a Food E-Commerce Website
 
 A website to sell food products online
 
@@ -10,6 +10,7 @@ A website to sell food products online
 * CSS
 * JQuery
 * JavaScript
+* talwind CSS
 
 download zip or clone repo (all required files are included)
 
